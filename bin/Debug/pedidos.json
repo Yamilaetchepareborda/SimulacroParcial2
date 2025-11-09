@@ -1,0 +1,25 @@
+[
+  {
+    "ClienteNombre": "Yamila",
+    "Direccion": "av p peralta ramos 2865",
+    "Items": [
+      {
+        "Nombre": "Crema facil",
+        "Precio": 25000,
+        "Cantidad": 2,
+        "Total": 50000
+      },
+      {
+        "Nombre": "serum Loreal paris",
+        "Precio": 10000,
+        "Cantidad": 1,
+        "Total": 10000
+      }
+    ],
+    "EnvioNombre": "Env\u00EDo por Moto",
+    "SubTotal": 60000,
+    "CostoEnvio": 1500,
+    "Total": 61500,
+    "Fecha": "2025-11-08T19:55:36.85936-03:00"
+  }
+]
