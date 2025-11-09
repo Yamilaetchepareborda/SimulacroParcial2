@@ -27,7 +27,11 @@ namespace Services
             foreach(var obs in _observers)
             {
                 try { obs.OnPedidoConfirmado(pedido);  }
-                catch { Console.WriteLine("no se pudo notificar"); }
+                catch 
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("no se pudo notificar");
+                }
             }
         }
     }

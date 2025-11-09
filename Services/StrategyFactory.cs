@@ -31,6 +31,7 @@ namespace Services
                 case "correo":
                     return _correo;
                 default:
+                    Console.ForegroundColor = ConsoleColor.Red;
                     throw new ArgumentException($"Tipo de envio no reconocido. Usa: moto | correo | retiro");
             }
         }

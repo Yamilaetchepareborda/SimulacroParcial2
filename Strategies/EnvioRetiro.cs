@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,6 +10,6 @@ namespace Strategies
     public class EnvioRetiro : IEnvioStrategy
     {
         public string Nombre => "Retiro en local";
-        public decimal CalcularCosto(decimal subtotal) => 0;
+        public decimal CalcularCosto(Pedido pedido) => 0;
     }
 }

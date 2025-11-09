@@ -3,52 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\repositories\\repositoriojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:repositories\\repositoriojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\builders\\pedidobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:builders\\pedidobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\views\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:views\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\strategies\\enviocorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:strategies\\enviocorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\builders\\ipedidobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:builders\\ipedidobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\observers\\logisticaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:observers\\logisticaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\observers\\clienteobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\observers\\clienteobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:observers\\clienteobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\observers\\ipedidoobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\observers\\ipedidoobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:observers\\ipedidoobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\views\\consolaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:views\\consolaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\observers\\logisticaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:observers\\logisticaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\facade\\checkoutfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:facade\\checkoutfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\services\\strategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\services\\strategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:services\\strategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\builders\\ipedidobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:builders\\ipedidobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\repositories\\repositoriojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:repositories\\repositoriojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\repositories\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:repositories\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\strategies\\ienviostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:strategies\\ienviostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|c:\\users\\pc\\onedrive\\escritorio\\idra\\2do a\u00F1o\\programacion 2\\practica2parcial\\simulacroyam\\strategies\\envioretiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:strategies\\envioretiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\strategies\\enviomoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:strategies\\enviomoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\facade\\checkoutfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:facade\\checkoutfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\views\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:views\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\views\\consolaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:views\\consolaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FFDDA-BA42-4BA6-A951-733AE5ED9AC5}|SimulacroYam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,58 +78,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RepositorioJson.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Repositories\\RepositorioJson.cs",
-              "RelativeDocumentMoniker": "Repositories\\RepositorioJson.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Repositories\\RepositorioJson.cs",
-              "RelativeToolTip": "Repositories\\RepositorioJson.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAACfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T03:52:24.967Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LogisticaObserver.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Observers\\LogisticaObserver.cs",
-              "RelativeDocumentMoniker": "Observers\\LogisticaObserver.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Observers\\LogisticaObserver.cs",
-              "RelativeToolTip": "Observers\\LogisticaObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "StrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Services\\StrategyFactory.cs",
+              "RelativeDocumentMoniker": "Services\\StrategyFactory.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Services\\StrategyFactory.cs",
+              "RelativeToolTip": "Services\\StrategyFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:53:18.474Z",
+              "WhenOpened": "2025-11-08T21:13:34.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "Services\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Services\\PedidoService.cs",
+              "RelativeToolTip": "Services\\PedidoService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:25:45.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ClienteObserver.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Observers\\ClienteObserver.cs",
               "RelativeDocumentMoniker": "Observers\\ClienteObserver.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Observers\\ClienteObserver.cs",
               "RelativeToolTip": "Observers\\ClienteObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T22:50:12.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "IPedidoObserver.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Observers\\IPedidoObserver.cs",
               "RelativeDocumentMoniker": "Observers\\IPedidoObserver.cs",
@@ -122,33 +138,165 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ConsolaView.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Views\\ConsolaView.cs",
-              "RelativeDocumentMoniker": "Views\\ConsolaView.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Views\\ConsolaView.cs",
-              "RelativeToolTip": "Views\\ConsolaView.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAgwEcAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "LogisticaObserver.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Observers\\LogisticaObserver.cs",
+              "RelativeDocumentMoniker": "Observers\\LogisticaObserver.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Observers\\LogisticaObserver.cs",
+              "RelativeToolTip": "Observers\\LogisticaObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T21:54:24.354Z",
+              "WhenOpened": "2025-11-08T22:53:18.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IPedidoBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Builders\\IPedidoBuilder.cs",
+              "RelativeDocumentMoniker": "Builders\\IPedidoBuilder.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Builders\\IPedidoBuilder.cs",
+              "RelativeToolTip": "Builders\\IPedidoBuilder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T18:42:02.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidoBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Builders\\PedidoBuilder.cs",
+              "RelativeDocumentMoniker": "Builders\\PedidoBuilder.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Builders\\PedidoBuilder.cs",
+              "RelativeToolTip": "Builders\\PedidoBuilder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T18:43:56.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnvioCorreo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Strategies\\EnvioCorreo.cs",
+              "RelativeDocumentMoniker": "Strategies\\EnvioCorreo.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Strategies\\EnvioCorreo.cs",
+              "RelativeToolTip": "Strategies\\EnvioCorreo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:51:54.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositorioJson.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Repositories\\RepositorioJson.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositorioJson.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Repositories\\RepositorioJson.cs",
+              "RelativeToolTip": "Repositories\\RepositorioJson.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:52:24.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Repositories\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Repositories\\IRepositorio.cs",
+              "RelativeToolTip": "Repositories\\IRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:41:50.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEnvioStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Strategies\\IEnvioStrategy.cs",
+              "RelativeDocumentMoniker": "Strategies\\IEnvioStrategy.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Strategies\\IEnvioStrategy.cs",
+              "RelativeToolTip": "Strategies\\IEnvioStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:49:51.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnvioRetiro.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Strategies\\EnvioRetiro.cs",
+              "RelativeDocumentMoniker": "Strategies\\EnvioRetiro.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Strategies\\EnvioRetiro.cs",
+              "RelativeToolTip": "Strategies\\EnvioRetiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:51:36.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnvioMoto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Strategies\\EnvioMoto.cs",
+              "RelativeDocumentMoniker": "Strategies\\EnvioMoto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Strategies\\EnvioMoto.cs",
+              "RelativeToolTip": "Strategies\\EnvioMoto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T04:17:16.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConsolaView.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Views\\ConsolaView.cs",
+              "RelativeDocumentMoniker": "Views\\ConsolaView.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Views\\ConsolaView.cs",
+              "RelativeToolTip": "Views\\ConsolaView.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwEcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:54:24.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CheckoutFacade.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Facade\\CheckoutFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\CheckoutFacade.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Facade\\CheckoutFacade.cs",
+              "RelativeToolTip": "Facade\\CheckoutFacade.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD4AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:30:50.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "InputHelper.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Views\\InputHelper.cs",
               "RelativeDocumentMoniker": "Views\\InputHelper.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Views\\InputHelper.cs",
               "RelativeToolTip": "Views\\InputHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T21:39:57.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T21:39:57.845Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -156,73 +304,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T18:35:12.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PedidoBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Builders\\PedidoBuilder.cs",
-              "RelativeDocumentMoniker": "Builders\\PedidoBuilder.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Builders\\PedidoBuilder.cs",
-              "RelativeToolTip": "Builders\\PedidoBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T18:43:56.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PedidoService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Services\\PedidoService.cs",
-              "RelativeDocumentMoniker": "Services\\PedidoService.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Services\\PedidoService.cs",
-              "RelativeToolTip": "Services\\PedidoService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T21:25:45.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CheckoutFacade.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Facade\\CheckoutFacade.cs",
-              "RelativeDocumentMoniker": "Facade\\CheckoutFacade.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Facade\\CheckoutFacade.cs",
-              "RelativeToolTip": "Facade\\CheckoutFacade.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwD4AAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T21:30:50.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StrategyFactory.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Services\\StrategyFactory.cs",
-              "RelativeDocumentMoniker": "Services\\StrategyFactory.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Services\\StrategyFactory.cs",
-              "RelativeToolTip": "Services\\StrategyFactory.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T21:13:34.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IPedidoBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Builders\\IPedidoBuilder.cs",
-              "RelativeDocumentMoniker": "Builders\\IPedidoBuilder.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Escritorio\\IDRA\\2do a\u00F1o\\PROGRAMACION 2\\Practica2Parcial\\SimulacroYam\\Builders\\IPedidoBuilder.cs",
-              "RelativeToolTip": "Builders\\IPedidoBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T18:42:02.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T18:35:12.784Z"
             }
           ]
         }

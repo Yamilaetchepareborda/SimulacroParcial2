@@ -11,9 +11,11 @@ namespace Observers
     {
         public void OnPedidoConfirmado(Pedido pedido)
         {
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine($"Cliente || Pedido confirmado para {pedido.ClienteNombre}");
             Console.WriteLine($"Total a pagar: {pedido.Total}");
             Console.WriteLine($"Envio: {pedido.EnvioNombre}");
+            Console.ResetColor();
         }
     }
 }

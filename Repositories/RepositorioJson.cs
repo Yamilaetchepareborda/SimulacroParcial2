@@ -11,11 +11,12 @@ namespace Repositories
     public class RepositorioJson<T> : IRepositorio<T>
     {
         private readonly string _ruta;
-        private static readonly JsonSerializerOptions _opts = new JsonSerializerOptions { WriteIndented = true };
-        public RepositorioJson(string ruta) => _ruta = ruta;
+
+        private static readonly JsonSerializerOptions _opts = new JsonSerializerOptions { WriteIndented = true }; //serializo el json de forma prolija, osea identado con espacios.
+        public RepositorioJson(string ruta) => _ruta = ruta; // constructor
         public void Guardar(T entidad)
         {
-            List<T> data = new List<T>();
+            List<T> data = new List<T>(); //lista temporal para almacenar los datos
             if (File.Exists(_ruta)) //si el archivo existe
             {
                 var json = File.ReadAllText(_ruta); //leo el contenido del archivo
