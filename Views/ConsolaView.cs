@@ -35,25 +35,14 @@ namespace Views
                 {
                     case "1":
 
-                        Console.WriteLine("Nombre del producto: ");
-                        var nombre = InputHelper.GetValidInput();
-                        Console.WriteLine("Precio: ");
-                        var precio = decimal.Parse(InputHelper.GetValidInput(isDecimal: true));
-                        Console.WriteLine("Cantidad:");
-                        var cantidad = int.Parse(InputHelper.GetValidInput(isNumeric: true));
-                        _facade.AgregarProducto(nombre, precio, cantidad);
+                        AgregarProducto();
+                       
                         break;
                     case "2":
-                        Console.WriteLine("Ingrese el nombre del Cliente:");
-                        var nombreCliente = InputHelper.GetValidInput();
-                        Console.WriteLine("Ingrese la direccion:");
-                        var direccion = InputHelper.GetValidInput();
-                        _facade.SetCliente(nombreCliente, direccion);
+                       AgregarCliente();
                         break;
                     case "3":
-                        Console.WriteLine("Ingrese tipo de envío (moto / correo / retiro): ");
-                        var alias = Console.ReadLine()?.Trim().ToLower() ?? "retiro";
-                        _facade.SeleccionarEnvio(alias);
+                       SeleccionarEnvio();
                         break;
                     case "4":
                         _facade.ConfirmarPedido();
@@ -71,6 +60,36 @@ namespace Views
                 Console.WriteLine("nPresione una tecla para continuar...");
                 Console.ReadKey();
             }
+        }
+
+        public void AgregarProducto()
+        {
+            Console.WriteLine("Nombre del producto: ");
+            var nombre = InputHelper.GetValidInput();
+            Console.WriteLine("Precio: ");
+            var precio = decimal.Parse(InputHelper.GetValidInput(isDecimal: true));
+            Console.WriteLine("Cantidad:");
+            var cantidad = int.Parse(InputHelper.GetValidInput(isNumeric: true));
+            _facade.AgregarProducto(nombre, precio, cantidad);
+        }
+
+        public void AgregarCliente()
+        {
+            Console.WriteLine("Ingrese el nombre del Cliente:");
+            var nombreCliente = InputHelper.GetValidInput();
+            Console.WriteLine("Ingrese la direccion:");
+            var direccion = InputHelper.GetValidInput();
+            _facade.SetCliente(nombreCliente, direccion);
+        }
+
+        public void SeleccionarEnvio()
+        {
+            Console.WriteLine("Ingrese tipo de envío (moto / correo / retiro): ");
+            var alias = Console.ReadLine()?.Trim().ToLower() ?? "retiro";
+            _facade.SeleccionarEnvio(alias);
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Envio Seleccionado con exito");
+            Console.ResetColor();
         }
     }
 }

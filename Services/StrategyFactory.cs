@@ -22,18 +22,34 @@ namespace Services
 
         public IEnvioStrategy FromAlias(string alias)
         {
-            switch (alias)
+            
+            bool opcionValida = false;
+            do
             {
-                case "moto":
-                    return _moto;
-                case "retiro":
-                    return _retiro;
-                case "correo":
-                    return _correo;
-                default:
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    throw new ArgumentException($"Tipo de envio no reconocido. Usa: moto | correo | retiro");
-            }
+                Console.WriteLine("Seleccion que tipo de envio quiere (moto | retiro | correo)");
+                string opcion =Console.ReadLine()?.ToLower() ?? "";
+                switch (opcion) {
+                    case "moto":
+                        opcionValida = true;
+                        return _moto;
+                    case "retiro":
+                        opcionValida = true;
+                        return _retiro;
+                    case "correo":
+                        opcionValida = true;
+                        return _correo;
+                    default:
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("Tipo de envio invalido, debe seleccionar: MOTO | RETIRO | CORREO:");
+                        Console.ResetColor();
+                        opcionValida = false;
+                        break;
+                }
+
+            } while (!opcionValida);
+            
+            return _correo; // nunca retorna esto, es para que el compilador no se queje
+          
         }
     }
 }

@@ -21,5 +21,51 @@
     "CostoEnvio": 1500,
     "Total": 61500,
     "Fecha": "2025-11-08T19:55:36.85936-03:00"
+  },
+  {
+    "ClienteNombre": "Yami\u002B",
+    "Direccion": "av ppp 222",
+    "Items": [
+      {
+        "Nombre": "cepillo",
+        "Precio": 3000,
+        "Cantidad": 1,
+        "Total": 3000
+      },
+      {
+        "Nombre": "pasta de dientes",
+        "Precio": 2550,
+        "Cantidad": 2,
+        "Total": 5100
+      },
+      {
+        "Nombre": "crema loreal",
+        "Precio": 22000,
+        "Cantidad": 1,
+        "Total": 22000
+      }
+    ],
+    "EnvioNombre": "Moto",
+    "SubTotal": 30100,
+    "CostoEnvio": 2100,
+    "Total": 32200,
+    "Fecha": "2025-11-09T20:44:29.5700691-03:00"
+  },
+  {
+    "ClienteNombre": "yam",
+    "Direccion": "av...",
+    "Items": [
+      {
+        "Nombre": "shampoo",
+        "Precio": 3000,
+        "Cantidad": 10,
+        "Total": 30000
+      }
+    ],
+    "EnvioNombre": "Moto",
+    "SubTotal": 30000,
+    "CostoEnvio": 1700,
+    "Total": 31700,
+    "Fecha": "2025-11-10T13:56:16.9407442-03:00"
   }
 ]

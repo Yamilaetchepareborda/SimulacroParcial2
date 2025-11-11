@@ -46,7 +46,19 @@ namespace Facade
             var pedido = _builder.Build();
             _service.Confirmar(pedido);
             _repo.Guardar(pedido);
-            Console.WriteLine("Pedido guardado correctamente!");
+            try
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Pedido guardado correctamente!");
+                Console.ResetColor();
+            }
+            catch
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("ERROR] Al guardar el pedido");
+                Console.ResetColor();
+            }
+           
         }
 
         public void ListarPedidos()

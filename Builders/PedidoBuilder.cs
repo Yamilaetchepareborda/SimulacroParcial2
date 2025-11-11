@@ -23,7 +23,7 @@ namespace Builders
 
         public void AddProducto (string nombre, decimal precio, int cantidad)
         {
-            _pedido.Items.Add(new Producto {
+                _pedido.Items.Add(new Producto {
                 Nombre = nombre?.Trim() ?? "",
                 Precio = precio,
                 Cantidad = cantidad
@@ -38,5 +38,7 @@ namespace Builders
             _pedido.Total = _pedido.SubTotal + _pedido.CostoEnvio;
         }
         public Pedido Build() => _pedido;
+
+       
     }
 }
